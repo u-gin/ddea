@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "98489008984",
+    "project_id": "ddea-b43b5",
+    "storage_bucket": "ddea-b43b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98489008984:android:db595e6179cd32894f1b2d",
+        "android_client_info": {
+          "package_name": "com.example.ddea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98489008984-r1tp76gi8dklqlpfp7f0rspk08be54e8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArWjnCvyrcJtQUX9LpkcEHPJNaIsDnMr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98489008984-r1tp76gi8dklqlpfp7f0rspk08be54e8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
